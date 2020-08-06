@@ -1,6 +1,6 @@
 ### Hi there, My name is Mike 👋
 
-## I'm a Developer, and Teacher!
+## I'm a DevOps with ambitions of developer!
 - 🔭 I'm currently working on anything my hands can grab!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
