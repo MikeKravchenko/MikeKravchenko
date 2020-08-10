@@ -65,12 +65,8 @@
 <!-- BLOG-POST-LIST:END 
 -->
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MikeKravchenko&show_icons=true&hide_border=false" /> 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeKravchenko&layout=compact" /> 
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeKravchenko&layout=compact" />
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MikeKravchenko&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MikeKravchenko&show_icons=true&hide_border=true" /> 
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeKravchenko&layout=compact&hide_border=true" /> 
 
 [website]: https://mikekravchenko.github.io/portfolio
 [twitter]: https://twitter.com/codeSTACKr
