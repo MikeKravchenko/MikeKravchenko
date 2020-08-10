@@ -65,7 +65,7 @@
 <!-- BLOG-POST-LIST:END 
 -->
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeKravchenko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeKravchenko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeKravchenko&layout=compact" />
 
 <img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeKravchenko&layout=compact" />
 
