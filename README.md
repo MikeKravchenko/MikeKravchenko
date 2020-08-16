@@ -70,7 +70,7 @@
 
 
 [website]: https://mikekravchenko.github.io/portfolio
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/Michael79061729
 [facebook]: https://www.facebook.com/profile.php?id=100009071329405
 [instagram]: https://www.instagram.com/mike_kravchenko/
 [linkedin]: https://www.linkedin.com/in/mike-kravchenko/
