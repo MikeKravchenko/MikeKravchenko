@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on anything my hands can grab!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects
 <!-- - ⚡ Fun fact: -->
 
 ## My Github Stats
