@@ -15,7 +15,6 @@
 
 ![image](https://leetcode-badge-showcase.vercel.app/api?username=tycherms&theme=github-dark)
 
-![THM](https://tryhackme-badges.s3.amazonaws.com/tycherms.png)
 ## Technologies I've worked with (and used throughout many projects as of March 2024)
 | Languages | Backend | DevOps | AI/ML | Web Dev |
 |----------|----------|----------|----------|----------|
