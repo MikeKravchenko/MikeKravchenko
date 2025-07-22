@@ -1,4 +1,4 @@
-### Hi there, My name is Mike
+### Hi there, it's Mike and this my personal profile 👋 Work one is here [mkravchenko-upchain](https://github.com/mkravchenko-upchain)
 
 ## I'm a DevOps with ambitions of developer!
 
