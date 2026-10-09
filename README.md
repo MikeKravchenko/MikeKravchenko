@@ -2,8 +2,8 @@
 
 **Site Reliability / DevOps Engineer** in Toronto 🇨🇦, working where cloud platforms, reliability, security and MLOps meet.
 
-- 📺 **Now:** SRE at **Rogers Sportsnet | Deltatre**, keeping live sports streaming reliable for **FIFA World Cup 2026**, NHL and MLB at up to **1M concurrent viewers**
-- 🏗️ **Before:** 4+ years at **Autodesk** (Upchain): moved a cloud PLM platform into the Autodesk ecosystem, ran Kubernetes, and kept complex multi-platform CI/CD builds green
+- 📺 **Now:** SRE at **Rogers Sportsnet | Deltatre**, keeping live sports streaming reliable for **FIFA World Cup 2026**, NHL and MLB at up to **1M concurrent viewers**, and building an AI-assisted SRE layer (LLM agents + RAG) that forecasts game-day traffic
+- 🏗️ **Before:** 4+ years at **Autodesk** (Upchain): led the move of a cloud PLM platform into the Autodesk ecosystem, shipped LLM-based and agentic systems, ran Kubernetes and multi-platform CI/CD
 - 🛠️ **Daily toolkit:** AWS/GCP, Kubernetes, Terraform, Argo CD/Flux, GitHub Actions, Datadog, Vault
 - 🔥 **What I enjoy:** living on the cutting edge of technologies and never being afraid to try something new
 - 🌱 **Learning:** distributed systems and platform engineering at scale
